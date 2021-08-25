@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Market {
+    width: 800px;
+    border: 1px solid black;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 3rem;
+
+    div {
+        flex: 1;
+        padding: 1rem;
+    }
+}
+  
+  .AddProduct {
+    width: 400px;
+    // border: 1px solid #000000;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 4px;
+    left: -184px;
+  }
